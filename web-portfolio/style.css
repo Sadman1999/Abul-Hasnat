@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: darkslateblue;
+}
+h1{
+    font-size: 60px;
+}
+.to-highlight{
+    color:red;
+}
+.abul-highlight{
+    color: gold;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;  
+}
+.half-width img{
+    width: 100%;
+}
